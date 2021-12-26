@@ -1,2 +1,2 @@
-# todoApp-with-MockServer-and-Dynamic-Pagination
+# Basic-redux-todo-APP
 Created with CodeSandbox
